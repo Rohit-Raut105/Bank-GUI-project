@@ -1,0 +1,326 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-reporting-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-runner-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-testkit-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-quickcheck-core-0.9.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\hamcrest-library-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Coursework 2 of programming\CourseWork_2
+-d
+C:\Coursework 2 of programming\CourseWork_2\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java
+<---- end of javadoc command ---->
+Loading source file C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java...
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:189: error: illegal start of expression
+        public void actionPerformed(ActionEvent a){
+        ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:213: error: <identifier> expected
+    display_2   = new JButton("Dispaly");
+             ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:214: error: <identifier> expected
+    display_2.setBounds(678,429,120,32);
+                       ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:214: error: illegal start of type
+    display_2.setBounds(678,429,120,32);
+                        ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:215: error: <identifier> expected
+    panel_2.add(display_2);
+               ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:215: error: <identifier> expected
+    panel_2.add(display_2);
+                         ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:216: error: <identifier> expected
+    display_2.setBackground(new Color(245, 183, 177));
+                           ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:216: error: illegal start of type
+    display_2.setBackground(new Color(245, 183, 177));
+                            ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:217: error: <identifier> expected
+    display_2.setFont(new 
+                     ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:217: error: illegal start of type
+    display_2.setFont(new 
+                      ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:220: error: <identifier> expected
+    home_2 = new JButton("Home");
+          ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:221: error: <identifier> expected
+    home_2.setBounds(846,429,120,32);
+                    ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:221: error: illegal start of type
+    home_2.setBounds(846,429,120,32);
+                     ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:222: error: <identifier> expected
+    panel_2.add(home_2);
+               ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:222: error: <identifier> expected
+    panel_2.add(home_2);
+                      ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:223: error: <identifier> expected
+    home_2.setBackground(new Color(245, 183, 177));
+                        ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:223: error: illegal start of type
+    home_2.setBackground(new Color(245, 183, 177));
+                         ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:224: error: <identifier> expected
+    home_2.setFont(new 
+                  ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:224: error: illegal start of type
+    home_2.setFont(new 
+                   ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:226: error: <identifier> expected
+    home_2.addActionListener(new ActionListener()
+                            ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:226: error: illegal start of type
+    home_2.addActionListener(new ActionListener()
+                             ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:228: error: illegal start of expression
+        public void actionPerformed(ActionEvent clicked_goBack_Button){
+        ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:231: error: class, interface, enum, or record expected
+    }})
+      ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:234: error: class, interface, enum, or record expected
+cancle.setBounds(845,488,120,32);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:235: error: class, interface, enum, or record expected
+panel_2.add(cancle);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:236: error: class, interface, enum, or record expected
+cancle.setBackground(new Color(245, 183, 177));
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:237: error: class, interface, enum, or record expected
+cancle.setFont(new 
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:240: error: class, interface, enum, or record expected
+panel_2.setLayout(null);//#yo panal ja add garako xa tesko pachadi hunu parcah .
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:241: error: class, interface, enum, or record expected
+frame_2.add(panel_2);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:242: error: class, interface, enum, or record expected
+frame_2.setResizable(false);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:243: error: class, interface, enum, or record expected
+frame_2.setVisible(true);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:244: error: class, interface, enum, or record expected
+frame_2.setSize(1000,600);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:245: error: class, interface, enum, or record expected
+frame_2.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:246: error: class, interface, enum, or record expected
+}
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:249: error: class, interface, enum, or record expected
+public void Debit_card()
+       ^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:252: error: class, interface, enum, or record expected
+panel_3 = new JPanel();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:253: error: class, interface, enum, or record expected
+frame_3.add(panel_3);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:254: error: class, interface, enum, or record expected
+panel_3.setBackground(new Color(210, 180, 222));
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:256: error: class, interface, enum, or record expected
+tital = new JLabel("Debit Card");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:257: error: class, interface, enum, or record expected
+tital.setBounds(451,8,152,42);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:258: error: class, interface, enum, or record expected
+frame_3.add(tital);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:260: error: class, interface, enum, or record expected
+clientname = new JLabel("Client Name:");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:261: error: class, interface, enum, or record expected
+clientname.setBounds(29,105,160,35);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:262: error: class, interface, enum, or record expected
+panel_3.add(clientname);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:263: error: class, interface, enum, or record expected
+f_clientname = new JTextField();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:264: error: class, interface, enum, or record expected
+f_clientname.setBounds(260,105,219,41);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:265: error: class, interface, enum, or record expected
+panel_3.add(f_clientname);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:267: error: class, interface, enum, or record expected
+issuerbank = new JLabel("Issuer Bank:");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:268: error: class, interface, enum, or record expected
+issuerbank.setBounds(29,189,157,31);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:269: error: class, interface, enum, or record expected
+panel_3.add(issuerbank);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:270: error: class, interface, enum, or record expected
+f_issuerbank = new JTextField();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:271: error: class, interface, enum, or record expected
+f_issuerbank.setBounds(260,188,219,41);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:272: error: class, interface, enum, or record expected
+panel_3.add(f_issuerbank);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:274: error: class, interface, enum, or record expected
+pinnumber = new JLabel("Pin Number:");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:275: error: class, interface, enum, or record expected
+pinnumber.setBounds(29,265,156,35);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:276: error: class, interface, enum, or record expected
+panel_3.add(pinnumber);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:277: error: class, interface, enum, or record expected
+f_pinnumber = new JTextField();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:278: error: class, interface, enum, or record expected
+f_pinnumber.setBounds(260,271,219,41);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:279: error: class, interface, enum, or record expected
+panel_3.add(f_pinnumber);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:281: error: class, interface, enum, or record expected
+bankaccount = new JLabel("Bank Account:");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:282: error: class, interface, enum, or record expected
+bankaccount.setBounds(29,345,182,35);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:283: error: class, interface, enum, or record expected
+panel_3.add(bankaccount);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:284: error: class, interface, enum, or record expected
+f_bankaccount = new JTextField();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:285: error: class, interface, enum, or record expected
+f_bankaccount.setBounds(260,354,219,41);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:286: error: class, interface, enum, or record expected
+panel_3.add(f_bankaccount);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:288: error: class, interface, enum, or record expected
+balanceamount = new JLabel("Balance Amount:");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:289: error: class, interface, enum, or record expected
+balanceamount.setBounds(29,425,212,35);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:290: error: class, interface, enum, or record expected
+panel_3.add(balanceamount);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:291: error: class, interface, enum, or record expected
+f_balanceamount = new JTextField();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:292: error: class, interface, enum, or record expected
+f_balanceamount.setBounds(260,437,219,41);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:293: error: class, interface, enum, or record expected
+panel_3.add(f_balanceamount);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:295: error: class, interface, enum, or record expected
+dateofwithdraw = new JLabel("Date Of Withdraw :");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:296: error: class, interface, enum, or record expected
+dateofwithdraw.setBounds(500,96,223,35);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:297: error: class, interface, enum, or record expected
+panel_3.add(dateofwithdraw);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:298: error: class, interface, enum, or record expected
+String day[] = {"1","2","3"};
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:299: error: class, interface, enum, or record expected
+f_day= new JComboBox(day);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:300: error: class, interface, enum, or record expected
+f_day.setBounds(744,105,72,32);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:301: error: class, interface, enum, or record expected
+f_day.setBackground(new Color(142, 68, 173));
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:302: error: class, interface, enum, or record expected
+panel_3.add(f_day); 
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:304: error: class, interface, enum, or record expected
+String months[] = {"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"};
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:305: error: class, interface, enum, or record expected
+f_months = new JComboBox(months);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:306: error: class, interface, enum, or record expected
+f_months.setBounds(823,105,74,32);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:307: error: class, interface, enum, or record expected
+panel_3.add(f_months);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:308: error: class, interface, enum, or record expected
+f_months.setBackground(new Color(142, 68, 173));
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:310: error: class, interface, enum, or record expected
+String yrs[]= {"2020","2021","2023"};
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:311: error: class, interface, enum, or record expected
+f_years = new JComboBox(yrs);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:312: error: class, interface, enum, or record expected
+f_years.setBounds(904,105,84,32);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:313: error: class, interface, enum, or record expected
+panel_3.add(f_years);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:314: error: class, interface, enum, or record expected
+f_years.setBackground(new Color(142, 68, 173));
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:316: error: class, interface, enum, or record expected
+withdrawamount = new JLabel("Withdraw Amount :");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:317: error: class, interface, enum, or record expected
+withdrawamount.setBounds(500,188,228,35);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:318: error: class, interface, enum, or record expected
+panel_3.add(withdrawamount);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:319: error: class, interface, enum, or record expected
+f_withdrawamount = new JTextField();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:320: error: class, interface, enum, or record expected
+f_withdrawamount.setBounds(751,188,219,41);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:321: error: class, interface, enum, or record expected
+panel_3.add(f_withdrawamount);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:323: error: class, interface, enum, or record expected
+cardid = new JLabel("Card Id :");
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:324: error: class, interface, enum, or record expected
+cardid.setBounds(502,280,101,35);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:325: error: class, interface, enum, or record expected
+panel_3.add(cardid);
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:326: error: class, interface, enum, or record expected
+f_cardid = new JTextField();
+^
+C:\Coursework 2 of programming\CourseWork_2\Bank_Gui.java:327: error: class, interface, enum, or record expected
+f_cardid.setBounds(751,271,219,41);
+^
+100 errors
